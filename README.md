@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="http://redweb.beget.tech/ext/for-intensives/next-htmllessons.svg" width="320" alt="Next Logo" />
-</p>
-
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
